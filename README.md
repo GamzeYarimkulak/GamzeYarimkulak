@@ -91,7 +91,7 @@ Akademik projeler ve kurumsal Ar-Ge çalışmalarıyla **model geliştirme → d
 ## GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GamzeYarimkulak&theme=flat&no-frame=true&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=GamzeYarimkulak&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
