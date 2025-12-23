@@ -18,15 +18,15 @@
 
 ---
 
-## 👋 Hakkımda
+##  Hakkımda
 Yapay zekâ ve bilgisayarlı görü odaklı **Bilgisayar Mühendisliği 4. sınıf öğrencisiyim**.  
 Üretim ortamına yönelik **face anti-spoofing**, **yaş–cinsiyet tahmini**, **YOLOv5 ile nesne tespiti** ve **NLP/RAG** projelerinde çalıştım.
 
-## 🔭 Şu an üzerinde çalıştıklarım
+##  Şu an üzerinde çalıştıklarım
 - **LangChain tabanlı RAG** uygulamaları geliştiriyorum  
 - **TÜBİTAK 2209-B** kapsamında BT destek süreçleri için **hibrit RAG + anomali tespiti** projesi üzerinde çalışıyorum
 
-🎯 Hedefim: üretim ortamında çalışan **güvenilir** ve **açıklanabilir** yapay zekâ çözümleri geliştirmek.
+ Hedefim: üretim ortamında çalışan **güvenilir** ve **açıklanabilir** yapay zekâ çözümleri geliştirmek.
 
 ---
 
@@ -35,7 +35,7 @@ Yapay zekâ ve bilgisayarlı görü odaklı **Bilgisayar Mühendisliği 4. sın�
 - ResNet18, DenseNet169, ResNeXt-50, DAN mimarileriyle spoof/real sınıflandırma
 - MediaPipe yüz landmark’larından geometri tabanlı özellikler + fusion senaryoları
 
-### 🧠 BT Destek Asistanı – Hibrit RAG (TÜBİTAK 2209-B | Devam)
+###  BT Destek Asistanı – Hibrit RAG (TÜBİTAK 2209-B | Devam)
 - Hibrit retrieval (vector + keyword) mimarisi
 - LangChain ile kanıt/alıntı destekli yanıt ve güven skoru yaklaşımı
 
@@ -49,7 +49,7 @@ Yapay zekâ ve bilgisayarlı görü odaklı **Bilgisayar Mühendisliği 4. sın�
 
 ---
 
-## 💼 Deneyimler
+##  Deneyimler
 **Stajyer – Yapay Zeka |** *(Tem 2025 – Oca 2026)*  
 - Anti-spoofing için CNN modelleri eğitimi, metrik karşılaştırma, üretime uygun mimari seçimi  
 - MediaPipe landmark tabanlı geometri özellikleri ve fusion yaklaşımları  
@@ -65,7 +65,7 @@ Yapay zekâ ve bilgisayarlı görü odaklı **Bilgisayar Mühendisliği 4. sın�
 
 ---
 
-## 🛠️ Teknolojiler
+##  Teknolojiler
 **Diller:** Python • Java • C • SQL  
 **AI/ML:** PyTorch • scikit-learn • CNN • Transformer • LLM fine-tuning • RAG • LangChain • NLP (Zemberek)  
 **Computer Vision:** OpenCV • MediaPipe • YOLOv5  
@@ -90,7 +90,7 @@ Yapay zekâ ve bilgisayarlı görü odaklı **Bilgisayar Mühendisliği 4. sın�
 
 ---
 
-## 🤝 İletişim
+##  İletişim
 - Mail: **Gamzeyarimkulak@gmail.com**
 - LinkedIn: **gamze-yarimkulak**
 - Konum: **Nilüfer / Bursa**
