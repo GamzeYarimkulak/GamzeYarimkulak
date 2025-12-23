@@ -88,14 +88,6 @@ Akademik projeler ve kurumsal Ar-Ge çalışmalarıyla **model geliştirme → d
 
 ---
 
-## GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GamzeYarimkulak&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ### İletişim
 - **Mail:** Gamzeyarimkulak@gmail.com  
 - **LinkedIn:** gamze-yarimkulak  
