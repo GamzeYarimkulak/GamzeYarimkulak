@@ -18,7 +18,7 @@ Bilgisayar Mühendisi • Computer Vision • NLP • RAG
 ---
 
 ### Hakkımda
-Bilgisayarlı görü ve doğal dil işleme alanlarında çalışan bir **Bilgisayar Mühendisliği 4. sınıf öğrencisiyim**.  
+Bilgisayarlı görü ve doğal dil işleme alanlarında çalışan bir **Bilgisayar Mühendisiyim**.  
 Gerçek dünyada çalışabilir sistemler geliştirmeye odaklanıyorum: **face anti-spoofing**, **nesne tespiti**, **RAG tabanlı destek asistanları** ve **Türkçe NLP**.
 
 Akademik projeler ve kurumsal Ar-Ge çalışmalarıyla **model geliştirme → değerlendirme → üretime uygunluk** sürecinin tamamında aktif rol aldım.
