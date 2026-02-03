@@ -79,14 +79,6 @@ Akademik projeler ve kurumsal Ar-Ge çalışmalarıyla **model geliştirme → d
 
 ---
 
-## GitHub İstatistikleri
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GamzeYarimkulak&show_icons=true&include_all_commits=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamzeYarimkulak&layout=compact&hide_border=true" height="160"/>
-</p>
-
----
 
 ### İletişim
 - **Mail:** Gamzeyarimkulak@gmail.com  
